@@ -1,3 +1,33 @@
 body {
     background-color: lightcoral;
 }
+nav {
+    text-transform: uppercase;
+    font-family: PT Sans Narrow;
+   }
+/* This is for the navbar items */
+.nav-item{
+        font-weight: bold;
+    }
+/*When you hover, the tabs change to italics, the color changes, and the boldness changes */
+.nav-item:hover{
+    font-style: italic;
+    opacity: 1.2;
+    background-color: lightcyan !important;
+    
+}
+header{
+    height: 300px;
+    width: 100%;
+    background-image: url("oranges.png");
+    background-size: cover;
+    /**Text Alignment */
+    text-align: center;
+}
+header p{
+    font-style: italic;
+    color: black;
+}
+header h1{
+    color: black;
+}
