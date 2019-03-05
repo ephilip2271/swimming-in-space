@@ -22,7 +22,11 @@ header{
     background-image: url("oranges.png");
     background-size: cover;
     /**Text Alignment */
-    text-align: center;
+    text-align: left;
+    
+}
+header:hover{
+    opacity: 1.2;
 }
 header p{
     font-style: italic;
