@@ -22,7 +22,7 @@ header{
     background-image: url("oranges.png");
     background-size: cover;
     /**Text Alignment */
-    text-align: left;
+    text-align: center;
     
 }
 header:hover{
@@ -34,4 +34,25 @@ header p{
 }
 header h1{
     color: black;
+}
+.services {
+    background-color: white;
+    text-align: center;
+}
+.services i{
+    font-size: 20px;
+    
+    padding: 20px 20px;
+    background-color: lightblue;
+    
+    width:60px;
+    height:60px;
+    
+    border-radius: 50%;
+}
+.services span{
+    width:200px;
+    display: inline-block;
+    
+    
 }
