@@ -56,3 +56,27 @@ header h1{
     
     
 }
+.pricing {
+    background-color: white;
+    text-align: center;
+}
+
+.pricing span{
+    width:200px;
+    display: inline-block;
+    
+    
+}
+.standard {
+   
+    background-color: grey;
+    opacity: .9;
+    border-radius: 5%;
+}
+.firstprice {
+    background-color: lightblue;
+    opacity: .9;
+}
+.row {
+    justify-content: center;
+}
