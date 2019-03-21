@@ -80,3 +80,29 @@ header h1{
 .row {
     justify-content: center;
 }
+.contactus {
+    margin-bottom: 80px;
+    background-color: white;
+    
+}
+.contactus .input-group {
+   margin-bottom: 25px; 
+    
+}
+.contactus i {
+    padding: 25px;
+}
+.contactus .btn {
+    border-radius: 0;
+    width:100%;
+    font-size: 15px;
+    background-color:lightblue;
+}
+.contactus .button:hover {
+    background-color: green!important;
+}
+.footer-container {
+    background-color: grey;
+    justify-content: center;
+    
+}
